@@ -1,7 +1,7 @@
 ## Olá, mundo!
 
 - 🌻 Procurando uma oportunidade de emprego.
-- 🍄 Aprendendo programação e desenvolvimento web pelo instituto PROA.
+- 🌱 Aprendendo programação e desenvolvimento web pelo instituto PROA.
 - ☀️ Pronomes: Ela/Dela
 
 <div align="center">
