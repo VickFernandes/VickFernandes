@@ -16,7 +16,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="right" alt="Vick-pic" height="150" style="border-radius:50px;" src="https://im4.ezgif.com/tmp/ezgif-4-18c42be0706c.gif">
+   <img align="right" alt="Vick-pic" height="150" style="border-radius:50px;" src="https://im4.ezgif.com/tmp/ezgif-4-d8fff675dabb.gif">
 </div>
   
 ##
