@@ -1,13 +1,13 @@
 ## Olá, mundo!
 
-- 🔭 Procurando uma oportunidade de emprego.
-- 🌱 Aprendendo programação e desenvolvimento web pelo instituto PROA.
-- 😄 Pronomes: Ela/Dela
+- 🌻 Procurando uma oportunidade de emprego.
+- 🍄 Aprendendo programação e desenvolvimento web pelo instituto PROA.
+- ☀️ Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/VickFernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VickFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickFernandes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VickFernandes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickFernandes&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
  <div style="display: inline_block"><br>
