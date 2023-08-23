@@ -1,8 +1,8 @@
 ## Olá, mundo!
 
-- 🌻 Procurando uma oportunidade de emprego.
-- 🌱 Aprendi programação e desenvolvimento web pelo instituto PROA.
-- ☀️ Pronomes: Ela/Dela
+- 🌻 Assistente de Testes na Unimed Fesp
+- 🌱 Programação e desenvolvimento web pelo instituto PROA.
+- ☀️ Curso Análise e Desenvolvimento de Sistemas na Fatec Ipiranga
 
 <div align="center">
   <a href="https://github.com/VickFernandes">
